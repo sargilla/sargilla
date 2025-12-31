@@ -1,44 +1,92 @@
 # Santiago Argilla
 
+## Software Architect & Tech Lead
 
-## Desarrollador Full Stack
+Arquitecto de Software con <strong>+18 años de experiencia</strong> construyendo sistemas escalables.
+Combino visión arquitectónica con capacidad de ejecución: diseño soluciones, lidero su implementación
+y formo equipos para mantenerlas. Especializado en Laravel, Vue.js y Quasar Framework.
 
-Hola!, soy Santiago Argilla, te cuento que soy un apasionado del desarrollo web, me encanta programar y aprender cosas nuevas constantemente.
-Me dedico exclusivamente a esto desde hace 4 años y llevo más de 15 años realizando proyectos profesionales.
-Últimamente también se me dió por enseñar, algo que me gustó siempre y estoy dictando el curso de **Fullstack Node** en [Digital House](https://www.digitalhouse.com/ar).
+---
 
-Estas son algunas de las tecnologías que uso para mis desarrollos:
+## Sobre mí
 
- - php 
- - html 
- - css 
- - javascript 
- - laravel 
- - vuejs 
- - react 
- - nodejs 
- - mysql 
- - mongodb
+Especializado en el stack Laravel + Vue.js + Quasar para construir aplicaciones web robustas y PWAs de alto rendimiento.
+
+Actualmente en Hallon, empresa de inteligencia de medios, donde diseñé la arquitectura principal: una API central que conecta múltiples sistemas independientes, incluyendo el sistema de gestión de staff y clientes integrado con Elasticsearch y S3. Lidero 6 desarrolladores en 3 equipos.
+
+Previamente fui Arquitecto y Tech Lead en la Jefatura de Gabinete de Ministros de Argentina, donde lideré el desarrollo de la Plataforma de Información Legislativa (PIL).
+
+---
+
+# Habilidades profesionales
+
+-   Arquitectura de Software<br>
+-   Liderazgo de Equipos<br>
+-   Diseño de Sistemas<br>
+-   Gestión de Proyectos<br>
+-   Metodologías Ágiles (Scrum)<br>
+-   Comunicación<br>
+-   Capacitación de Equipos
+
+## Stack Técnico Principal
+
+### Backend
+
+-   **PHP 5-8.x** / **Laravel 5-12**
+-   Eloquent ORM
+-   APIs RESTful
+-   Arquitectura de servicios
+
+### Frontend
+
+-   **Vue.js 3**
+-   **Quasar Framework**
+-   Vuex/Pinia Stores
+-   Componentes reutilizables
+-   HTML5 / CSS3
+-   Tailwind
+-   Bootstrap 3/4/5
+
+### Bases de Datos
+
+-   MySQL
+-   Postgres
+-   MongoDB
+-   Elasticsearch
+
+### DevOps & Cloud
+
+-   Docker
+-   AWS S3
+-   Git
+-   CI/CD
+-   Kubenetes
+
+### Arquitectura
+
+-   Diseño de sistemas distribuidos
+-   Microservicios
+-   Patrones de diseño (MVC, Repository, Service Layer)
+-   Metodologías Ágiles / Scrum
+
+### Otras Tecnologías
+
+-   Node.js
+-   React / React Native
+-   Express.js
+
+---
 
 ## Portfolio
+
 Puedes ver mi portfolio en [sargilla.com.ar](https://sargilla.com.ar)
-o puedes [descargar mi CV](assets/files/curriculum_vitae_santiago_argilla.pdf)
+o puedes [descargar mi CV](https://sargilla.com.ar/curriculum.html)
 
+---
 
-## Que hago
+## Contacto
 
-### Web
-
-Webs personales, empresas, noticias, blogs, eventos, integramente administrables desde una sección privada que desarrollé íntegramente.
-
-### Sistemas
-
-Sistemas personalizados basándonos en su necesidad especifica y llevados a cabo para que Ud. tenga el producto mas eficiente para trabajar en su empresa.
-
-### E-Commerce
-
-Sitios de comercio electrónico pensados en la usabilidad del cliente y siempre adaptados a su negocio, control de stock, pedidos y gestión de clientes integrados en la administración del sitio.
-
-
-Santiago Argilla
-[sargilla.com.ar](https://sargilla.com.ar)
+-   [LinkedIn](https://linkedin.com/in/santiagoargilla)
+-   [GitHub](https://github.com/sargilla)
+-   [sargilla.com.ar](https://sargilla.com.ar)
+-   [Email](contacto@sargilla.com.ar)
